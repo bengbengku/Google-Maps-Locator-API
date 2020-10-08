@@ -1,0 +1,19 @@
+{
+  "name": "google-maps-locator-api",
+  "version": "1.0.0",
+  "description": "Google Maps Locator API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengbengku/Google-Maps-Locator-API.git"
+  },
+  "author": "Anggiat Benget Napitupulu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengbengku/Google-Maps-Locator-API/issues"
+  },
+  "homepage": "https://github.com/bengbengku/Google-Maps-Locator-API#readme"
+}

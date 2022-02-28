@@ -10,7 +10,7 @@ app.use(function(req, res, next){
   next();
 })
 
-mongoose.connect("mongodb+srv://bengbengku:1Ov3WY4fqOWoymum@cluster0.ulte2.mongodb.net/<dbname>?retryWrites=true&w=majority", { 
+mongoose.connect("mongodb+srv://", { 
   useNewUrlParser: true,
   useUnifiedTopology: true 
 });
